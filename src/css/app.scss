@@ -1,0 +1,12 @@
+// app global css in SCSS form
+@font-face {
+  font-family: 'vazir';
+  src: url('/assets/fonts/vazir.woff') format(woff);
+  font-weight: 700;
+  font-style: italic;
+}
+.my-custom-font {
+  font-family: 'vazir', Fallback sans-serif;
+}
+// declare a class which applies it
+
