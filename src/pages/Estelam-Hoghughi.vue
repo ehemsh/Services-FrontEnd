@@ -19,8 +19,8 @@
         <q-card-section>
           <div class="q-pt-lg">
 
-            <div class="col text-h6 ellipsis flex justify-center">
-              <h2 class= "text-h6 text-uppercase q-my-none text-weight-regular">استعلام شناسه ملی اشخاص حقوقی</h2>
+            <div class="col text-h6 ellipsis flex justify-center my-custom-font">
+              <h2 class= "text-h6 text-uppercase q-my-none text-weight-regular my-custom-font">استعلام شناسه ملی اشخاص حقوقی</h2>
             </div>
           </div>
         </q-card-section>
